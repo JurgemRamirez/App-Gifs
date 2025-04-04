@@ -25,7 +25,7 @@ npm install
 ```
 
 ## 3. Configurar las variables de entorno
-Crea un archivo .env en la raíz del proyecto y agrega las siguientes variables de entorno con tus valores específicos:
+Crea carpeta environments en la raíz del proyecto src y agrega las siguientes variables de entorno con tus valores específicos:
 
 ```bash
 API_GIFS=54654654645654
